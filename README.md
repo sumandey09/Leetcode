@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumandey09/Leetcode/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
