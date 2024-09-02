@@ -3,13 +3,13 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         st.push(n);
         n--;
-        int operation=0;
+        int operation=1;
         while(n>0){
-            if(operation%4==0){
+            if(operation%4==1){
                 st.push(st.pop()*n);
-            }else if(operation%4==1){
-                st.push(st.pop()/n);
             }else if(operation%4==2){
+                st.push(st.pop()/n);
+            }else if(operation%4==3){
                 st.push(n);
             }else{
                 st.push(-n);
