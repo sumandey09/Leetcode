@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sumandey09/Leetcode/tree/master/0948-sort-an-array) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumandey09/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sumandey09/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/sumandey09/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sumandey09/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
