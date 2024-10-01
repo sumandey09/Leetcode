@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumandey09/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/sumandey09/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sumandey09/Leetcode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/sumandey09/Leetcode/tree/master/1048-clumsy-factorial) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sumandey09/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
