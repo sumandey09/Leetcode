@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumandey09/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumandey09/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sumandey09/Leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sumandey09/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Merge Sort
 |  |
