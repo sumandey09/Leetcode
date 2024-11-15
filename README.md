@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sumandey09/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumandey09/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumandey09/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1048-clumsy-factorial](https://github.com/sumandey09/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumandey09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
