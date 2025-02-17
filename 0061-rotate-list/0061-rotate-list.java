@@ -1,41 +1,39 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    ListNode findnthnode(ListNode temp, int k) {
-        int cnt = 1;
-        while (temp != null) {
-            if (cnt == k) return temp;
+    ListNode findnthnode(ListNode temp,int k){
+        int cnt=1;
+        while(temp!=null){
+            if(cnt==k)return temp;
             cnt++;
-            temp = temp.next;
+            temp=temp.next;
         }
-        return null; // Explicitly returning null if node not found (though this case should be prevented)
+        return temp;
     }
-
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || k == 0) return head;  // Fix edge case handling
-
-        ListNode tail = head;
-        int len = 1;
-
-        // Compute the length of the list
-        while (tail.next != null) {
+        if(head==null||k==0)return head;
+        ListNode tail=head;
+        int len=1;
+        while(tail.next!=null){
             len++;
-            tail = tail.next;
+            tail=tail.next;
         }
+        if(k%len==0)return head;
+        k=k%len;
 
-        // If k is a multiple of len, the list remains the same
-        k = k % len;
-        if (k == 0) return head;
-
-        // Connect tail to head to form a circular linked list
-        tail.next = head;
-
-        // Find the new last node
-        ListNode newlastnode = findnthnode(head, len - k);
-        
-        if (newlastnode == null) return head; // Prevent null pointer exception
-
-        head = newlastnode.next;
-        newlastnode.next = null; // Break the cycle
-
+        tail.next=head;
+        ListNode newlastnode=findnthnode(head,len-k);
+        head=newlastnode.next;
+        newlastnode.next=null;
         return head;
+
     }
 }
