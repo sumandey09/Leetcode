@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumandey09/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumandey09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumandey09/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumandey09/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sumandey09/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumandey09/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sumandey09/Leetcode/tree/master/0258-add-digits) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumandey09/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumandey09/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
