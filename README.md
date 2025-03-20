@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumandey09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumandey09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumandey09/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sumandey09/Leetcode/tree/master/0198-house-robber) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumandey09/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sumandey09/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sumandey09/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumandey09/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sumandey09/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sumandey09/Leetcode/tree/master/0101-symmetric-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumandey09/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sumandey09/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sumandey09/Leetcode/tree/master/0101-symmetric-tree) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sumandey09/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sumandey09/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
