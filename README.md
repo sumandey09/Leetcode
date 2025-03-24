@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sumandey09/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
+| [0686-repeated-string-match](https://github.com/sumandey09/Leetcode/tree/master/0686-repeated-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/sumandey09/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/sumandey09/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
