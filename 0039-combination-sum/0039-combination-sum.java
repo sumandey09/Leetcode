@@ -1,6 +1,6 @@
 class Solution {
 
-    private void findcombination(int ind, int[] arr, int target, List<List<Integer>> ans, List<Integer> ds) {
+    void findcombination(int ind, int[] arr, int target, List<List<Integer>> ans, List<Integer> ds) {
         if (ind == arr.length) {
             if (target == 0) {
                 ans.add(new ArrayList<>(ds));
