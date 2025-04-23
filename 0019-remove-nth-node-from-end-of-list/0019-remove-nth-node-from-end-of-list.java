@@ -17,7 +17,7 @@ class Solution {
         temp=temp.next;
        }
        int ans=count-n;
-       if(ans==0) return head.next;
+       if(ans==0)return head.next;
        temp=head;
        for(int i=1;i<ans;i++){
          temp=temp.next;
