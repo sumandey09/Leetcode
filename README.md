@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sumandey09/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/sumandey09/Leetcode/tree/master/0403-frog-jump) |
+| [0806-domino-and-tromino-tiling](https://github.com/sumandey09/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/sumandey09/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
