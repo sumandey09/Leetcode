@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2048-build-array-from-permutation](https://github.com/sumandey09/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumandey09/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sumandey09/Leetcode/tree/master/0258-add-digits) |
 | [1048-clumsy-factorial](https://github.com/sumandey09/Leetcode/tree/master/1048-clumsy-factorial) |
+| [2048-build-array-from-permutation](https://github.com/sumandey09/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sumandey09/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
