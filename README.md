@@ -410,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sumandey09/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sumandey09/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
