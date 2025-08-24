@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumandey09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/sumandey09/Leetcode/tree/master/0403-frog-jump) |
+| [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumandey09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sumandey09/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sumandey09/Leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sumandey09/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
