@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sumandey09/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumandey09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumandey09/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sumandey09/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/sumandey09/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sumandey09/Leetcode/tree/master/0344-reverse-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/sumandey09/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sumandey09/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/sumandey09/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumandey09/Leetcode/tree/master/0326-power-of-three) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sumandey09/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sumandey09/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sumandey09/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sumandey09/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sumandey09/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
