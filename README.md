@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0792-binary-search](https://github.com/sumandey09/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sumandey09/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/sumandey09/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumandey09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/sumandey09/Leetcode/tree/master/0792-binary-search) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
