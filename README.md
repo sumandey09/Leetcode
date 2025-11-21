@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sumandey09/Leetcode/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/sumandey09/Leetcode/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/sumandey09/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3617-find-the-original-typed-string-i](https://github.com/sumandey09/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sumandey09/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sumandey09/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sumandey09/Leetcode/tree/master/0389-find-the-difference) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sumandey09/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Merge Sort
 |  |
@@ -451,4 +454,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
