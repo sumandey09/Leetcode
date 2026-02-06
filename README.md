@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sumandey09/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3379-transformed-array](https://github.com/sumandey09/Leetcode/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/sumandey09/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/sumandey09/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/sumandey09/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/sumandey09/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
