@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/sumandey09/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/sumandey09/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sumandey09/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumandey09/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1048-clumsy-factorial](https://github.com/sumandey09/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumandey09/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sumandey09/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumandey09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/sumandey09/Leetcode/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/sumandey09/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sumandey09/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sumandey09/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3617-find-the-original-typed-string-i](https://github.com/sumandey09/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Table
