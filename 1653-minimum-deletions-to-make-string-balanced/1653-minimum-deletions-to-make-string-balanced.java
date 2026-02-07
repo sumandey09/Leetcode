@@ -6,7 +6,7 @@ class Solution {
         for (char c : s.toCharArray()) {
             if (c == 'b') {
                 countB++;
-            } else { // c == 'a'
+            } else { 
                 deletions = Math.min(deletions + 1, countB);
             }
         }
