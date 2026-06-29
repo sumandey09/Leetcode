@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0705-design-hashset](https://github.com/sumandey09/Leetcode/tree/master/0705-design-hashset) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sumandey09/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/sumandey09/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/sumandey09/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/sumandey09/Leetcode/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/sumandey09/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumandey09/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sumandey09/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sumandey09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sumandey09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sumandey09/Leetcode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/sumandey09/Leetcode/tree/master/0705-design-hashset) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sumandey09/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sumandey09/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/sumandey09/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sumandey09/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/sumandey09/Leetcode/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumandey09/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sumandey09/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Greedy
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/sumandey09/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sumandey09/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
