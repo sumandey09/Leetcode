@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sumandey09/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sumandey09/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sumandey09/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sumandey09/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sumandey09/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sumandey09/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumandey09/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumandey09/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumandey09/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sumandey09/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sumandey09/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sumandey09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sumandey09/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/sumandey09/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
